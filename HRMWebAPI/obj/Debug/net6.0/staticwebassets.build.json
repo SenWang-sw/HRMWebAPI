@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6n4vALLSVF3G28enulLvbeZpNQfZyd4oc712PWFTEcI=",
+  "Source": "HRMWebAPI",
+  "BasePath": "_content/HRMWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

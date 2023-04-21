@@ -1,0 +1,17 @@
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.csproj.AssemblyReference.cache
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.AssemblyInfoInputs.cache
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.AssemblyInfo.cs
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.csproj.CoreCompileInputs.cache
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\bin\Debug\net6.0\Infrasturcture.deps.json
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\bin\Debug\net6.0\Infrasturcture.runtimeconfig.json
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\bin\Debug\net6.0\Infrasturcture.dll
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\bin\Debug\net6.0\Infrasturcture.pdb
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.csproj.CopyComplete
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.dll
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\refint\Infrasturcture.dll
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.pdb
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\Infrasturcture.genruntimeconfig.cache
+C:\Users\wangs\source\repos\WebApplication1\Infrasturcture\obj\Debug\net6.0\ref\Infrasturcture.dll
