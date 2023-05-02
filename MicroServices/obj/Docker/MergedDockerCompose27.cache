@@ -1,0 +1,38 @@
+name: dockercompose18317202415673213976
+services:
+  employeapi:
+    build:
+      context: C:\Users\wangs\source\repos\MicroServices
+      dockerfile: EmployeAPI/Dockerfile
+    image: employeapi
+    networks:
+      default: null
+  interviewapi:
+    build:
+      context: C:\Users\wangs\source\repos\MicroServices
+      dockerfile: InterviewAPI/Dockerfile
+    image: interviewapi
+    networks:
+      default: null
+  recruitingapi:
+    build:
+      context: C:\Users\wangs\source\repos\MicroServices
+      dockerfile: RecruitingAPI/Dockerfile
+    image: recruitingapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "40123"
+      protocol: tcp
+  userapi:
+    build:
+      context: C:\Users\wangs\source\repos\MicroServices
+      dockerfile: UserAPI/Dockerfile
+    image: userapi
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose18317202415673213976_default

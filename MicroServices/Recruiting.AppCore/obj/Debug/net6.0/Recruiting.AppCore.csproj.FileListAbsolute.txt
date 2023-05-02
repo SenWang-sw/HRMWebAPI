@@ -1,0 +1,12 @@
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\bin\Debug\net6.0\Recruiting.AppCore.deps.json
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\bin\Debug\net6.0\Recruiting.AppCore.dll
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\bin\Debug\net6.0\Recruiting.AppCore.pdb
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.csproj.AssemblyReference.cache
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.AssemblyInfoInputs.cache
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.AssemblyInfo.cs
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.dll
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\refint\Recruiting.AppCore.dll
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\Recruiting.AppCore.pdb
+C:\Users\wangs\source\repos\MicroServices\Recruiting.AppCore\obj\Debug\net6.0\ref\Recruiting.AppCore.dll
