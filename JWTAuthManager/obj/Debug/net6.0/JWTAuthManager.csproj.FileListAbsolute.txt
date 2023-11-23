@@ -1,0 +1,12 @@
+C:\Users\wangs\source\repos\JWTAuthManager\bin\Debug\net6.0\JWTAuthManager.deps.json
+C:\Users\wangs\source\repos\JWTAuthManager\bin\Debug\net6.0\JWTAuthManager.dll
+C:\Users\wangs\source\repos\JWTAuthManager\bin\Debug\net6.0\JWTAuthManager.pdb
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.csproj.AssemblyReference.cache
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.AssemblyInfoInputs.cache
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.AssemblyInfo.cs
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.csproj.CoreCompileInputs.cache
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.dll
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\refint\JWTAuthManager.dll
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\JWTAuthManager.pdb
+C:\Users\wangs\source\repos\JWTAuthManager\obj\Debug\net6.0\ref\JWTAuthManager.dll

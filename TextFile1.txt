@@ -1,0 +1,36 @@
+﻿// 定义 Response Model 类型
+public class ProductResponseModel
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public decimal Price { get; set; }
+    public DateTime CreatedDate { get; set; }
+}
+
+// API 控制器方法
+[HttpGet]
+public IActionResult GetProduct(int id)
+{
+    // 根据 id 查询产品信息
+    var product = _productRepository.GetProductById(id);
+
+    if (product == null)
+    {
+        return NotFound();
+    }
+
+    // 创建 Response Model 实例
+    var response = new ProductResponseModel
+    {
+        Id = product.Id,
+        Name = product.Name,
+        Price = product.Price,
+        CreatedDate = product.CreatedDate
+    };
+
+    // 序列化 Response Model
+    var json = JsonConvert.SerializeObject(response);
+
+    // 发送响应给客户端
+    return Ok(json);
+}

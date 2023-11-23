@@ -1,0 +1,12 @@
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.deps.json
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.dll
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.pdb
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.csproj.AssemblyReference.cache
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.AssemblyInfoInputs.cache
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.AssemblyInfo.cs
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.dll
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\refint\Interview.AppCore.dll
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.pdb
+C:\Users\wangs\source\repos\MicroServices\Interview.AppCore\obj\Debug\net6.0\ref\Interview.AppCore.dll
